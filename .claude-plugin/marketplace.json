@@ -1,0 +1,13 @@
+{
+  "name": "marketing-agent-kit",
+  "description": "Marketplace for the marketing-kit plugin: multi-agent funnel and marketing content workflows.",
+  "owner": { "name": "ceichmueller" },
+  "plugins": [
+    {
+      "name": "marketing-kit",
+      "source": "./",
+      "description": "Multi-agent marketing content kit: funnel planner, content creator and quality-gate reviewers.",
+      "author": { "name": "ceichmueller" }
+    }
+  ]
+}
