@@ -1,5 +1,11 @@
 # marketing-agent-kit
 
+> **Kurz auf Deutsch:** Agenten-Pipeline für Marketing-Inhalte, angefangen bei
+> Website-Funnels. Der Plan wird geschrieben und von dir freigegeben, **bevor** der erste
+> Text existiert; danach laufen drei Qualitäts-Gates, die nicht optional sind. Produktfakten
+> werden nie erfunden — sie stammen aus dem Kontext-Pack des Unternehmens oder gehen als
+> markierte Rückfrage raus. Der Rest dieses READMEs ist auf Englisch.
+
 A [Claude Code plugin](https://code.claude.com/docs/en/plugins) providing a multi-agent pipeline for high-converting marketing content — starting with website funnels. One shared, versioned agent setup with per-project agent memory. Sibling of [mobile-agent-kit](https://github.com/MakeNative/mobile-agent-kit), same conventions.
 
 ## What's inside
@@ -63,3 +69,14 @@ Claude Code (observed on 2.1.195) injects a broken Persistent Agent Memory path 
 ## License
 
 MIT
+
+## MakeNative
+
+This kit is part of [MakeNative](https://makenative.de). We run agent pipelines like this
+every day and teach others to build them for their own processes. For developers and for
+anyone who wants to automate their work with AI.
+
+Want to learn this for your own work? Join the list:
+[Starter cohort application](https://tally.so/r/5ByYj6?utm_source=github&utm_medium=readme&utm_campaign=starter-kohorte)
+
+Christian Eichmüller · [LinkedIn](https://linkedin.com/in/christianeichmueller)
