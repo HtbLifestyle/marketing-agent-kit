@@ -1,6 +1,6 @@
 # marketing-agent-kit
 
-A [Claude Code plugin](https://code.claude.com/docs/en/plugins) providing a multi-agent pipeline for high-converting marketing content — starting with website funnels. One shared, versioned agent setup with per-project agent memory. Sibling of [mobile-agent-kit](https://github.com/ChristianEichmueller/mobile-agent-kit), same conventions.
+A [Claude Code plugin](https://code.claude.com/docs/en/plugins) providing a multi-agent pipeline for high-converting marketing content — starting with website funnels. One shared, versioned agent setup with per-project agent memory. Sibling of [mobile-agent-kit](https://github.com/MakeNative/mobile-agent-kit), same conventions.
 
 ## What's inside
 
@@ -26,7 +26,7 @@ Key rules across the workflow: **the plan is written and user-approved before an
 ## Install
 
 ```
-/plugin marketplace add ChristianEichmueller/marketing-agent-kit
+/plugin marketplace add MakeNative/marketing-agent-kit
 /plugin install marketing-kit@marketing-agent-kit
 /marketing-kit:adopt
 ```

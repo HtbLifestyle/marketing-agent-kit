@@ -62,7 +62,7 @@ Merge into `.claude/settings.json` (create if missing, preserve existing keys):
 {
   "extraKnownMarketplaces": {
     "marketing-agent-kit": {
-      "source": { "source": "github", "repo": "ChristianEichmueller/marketing-agent-kit" }
+      "source": { "source": "github", "repo": "MakeNative/marketing-agent-kit" }
     }
   }
 }
