@@ -1,1 +1,13 @@
 .DS_Store
+__pycache__/
+*.pyc
+
+# Niemals Projektinhalte ins Plugin-Repo.
+# Geschaeftskontext, Funnel-Inhalte, Tracking-IDs und Laufprotokolle
+# entstehen im jeweiligen Marketingprojekt und gehoeren dort in dessen
+# .gitignore. Im Repo liegt nur die leere Vorlage unter
+# docs/BUSINESS_CONTEXT_TEMPLATE.md.
+BUSINESS_CONTEXT.md
+.claude/agent-memory/
+.claude/agents-log/
+.claude/docs/
